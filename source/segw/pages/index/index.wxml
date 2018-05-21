@@ -1,0 +1,215 @@
+<view class="view1">
+  
+  <view class="view3" bindtap="jump"  id="tsinghua">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/tsinghua/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">清华大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="gap">
+  </view>
+
+  <view class="view3" bindtap="jump" id="pku">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/pku/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">北京大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="gap">
+  </view>
+
+  <view class="view3" bindtap="jump"  id="buaa">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/buaa/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">北京航空航天大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="gap">
+  </view>
+
+  <view class="view3" bindtap="jump"  id="sjtu">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/sjtu/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">上海交通大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="gap">
+  </view>
+
+  <view class="view3" bindtap="jump"  id="zju">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/zju/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">浙江大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="view3" bindtap="jump"  id="bupt">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/bupt/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">北京邮电大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="view3" bindtap="jump"  id="ahu">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/ahu/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">安徽大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="view3" bindtap="jump"  id="hit">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/hit/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">哈尔滨工业大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="view3" bindtap="jump"  id="hnu">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/hnu/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">湖南大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="view3" bindtap="jump"  id="hust">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/hust/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">华中科技大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="view3" bindtap="jump"  id="jlu">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/jlu/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">吉林大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="view3" bindtap="jump"  id="jnu">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/jnu/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">暨南大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="view3" bindtap="jump"  id="nju">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/nju/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">南京大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="view3" bindtap="jump"  id="njust">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/njust/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">南京理工大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="view3" bindtap="jump"  id="imu">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/imu/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">内蒙古大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="view3" bindtap="jump"  id="nuaa">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/nuaa/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">南京航空航天大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="view3" bindtap="jump"  id="seu">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/seu/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">东南大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="view3" bindtap="jump"  id="bit">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/bit/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">北京理工大学 </view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="view3" bindtap="jump"  id="sysu">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/sysu/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">中山大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+  <view class="view3" bindtap="jump"  id="zhongnan">
+    <view class="view4">
+      <image src="http://zdoubleleaves.cn/img/zhongnan/icon.jpg" class="icon"></image>
+    </view>
+    <view class="view2">中南大学</view>
+    <view class="view5">
+      <image src="http://zdoubleleaves.cn/img/right.png" class="right"></image>
+    </view>
+  </view>
+
+</view>
